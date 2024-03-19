@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sanji-s-Book/static/css/main.45582671.css",
+    "main.js": "/Sanji-s-Book/static/js/main.4041e608.js",
+    "static/media/header_image.jpg": "/Sanji-s-Book/static/media/header_image.1dc0f346d407fc577d16.jpg",
+    "index.html": "/Sanji-s-Book/index.html",
+    "static/media/loader.svg": "/Sanji-s-Book/static/media/loader.fa0a63c5780ec4e36c8aa3706db53def.svg",
+    "main.45582671.css.map": "/Sanji-s-Book/static/css/main.45582671.css.map",
+    "main.4041e608.js.map": "/Sanji-s-Book/static/js/main.4041e608.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45582671.css",
+    "static/js/main.4041e608.js"
+  ]
+}
